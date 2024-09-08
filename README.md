@@ -6,4 +6,4 @@ Learn how to use Langchain and Google Gemini to create a Product Review Analyser
 
 Data File: Sample Product Reviews.csv
 
-The code was written in Google Colaboratory environment.
+_The code was written in Google Colaboratory environment._
